@@ -1,2 +1,1 @@
-# First-project
-learning how to use git
+just write something
